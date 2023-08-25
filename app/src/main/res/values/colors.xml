@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff80cbc4</color>
+    <color name="colorPrimary">#19c3f0</color>
+    <color name="colorPrimaryDark">#16b2db</color>
+
+    <color name="primarymain">#19c3f0</color>
+    <color name="colorlight">#eaf4ff</color>
+
+    <color name="colorlightdark">#eaf4ff</color>
+
+    <color name="adstext">#000000</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blackads">#1a1a1a</color>
+    <color name="black1">#4c4c4c</color>
+
+
+    <color name="colorbtn1">#ffb979</color>
+    <color name="colorbtn2">#7f90ff</color>
+    <color name="colorbtn3">#ff7b7c</color>
+    <color name="colorbtn4">#c67cff</color>
+    <color name="colorbtn5">#7abe20</color>
+    <color name="colorbtn6">#ff447f</color>
+    <color name="colorbtn7">#ff791b</color>
+    <color name="colorbtn8">#ff7ce8</color>
+    <color name="colorGrey">#808080</color>
+
+    <color name="app_time_color">#a1a1a1</color>
+    <color name="bg_color">#fcfcfc</color>
+    <color name="cardColor">#f0f0f0</color>
+    <color name="date_time_color">#888888</color>
+    <color name="fail_color">#ff0000</color>
+    <color name="setting_icon_bg_color">#cfe9f0</color>
+    <color name="success_color">#00dc00</color>
+    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_700">#ff018786</color>
+    <color name="textSecondColor">#8ce1f8</color>
+    <color name="recent_activity_color">#434343</color>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/llSortBottomsheet" android:layout_width="match_parent" android:layout_height="wrap_content" app:behavior_hideable="true" app:behavior_peekHeight="0dp" app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+    <com.github.florent37.shapeofview.shapes.RoundRectView android:layout_width="match_parent" android:layout_height="wrap_content" app:shape_roundRect_topLeftRadius="10dp" app:shape_roundRect_topRightRadius="10dp">
+        <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/_14ssp" android:textColor="@color/colorPrimary" android:padding="@dimen/_10sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sort_by" android:fontFamily="@font/montserrat_semibold"/>
+            <View android:background="@color/recent_activity_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:alpha="0.5"/>
+            <LinearLayout android:id="@+id/llSortAll" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_10sdp" android:layout_marginRight="@dimen/_10sdp">
+                <TextView android:textSize="@dimen/_13ssp" android:textColor="@color/recent_activity_color" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/all" android:layout_weight="1" android:fontFamily="@font/montserrat_regular"/>
+                <RadioButton android:id="@+id/rbSortAll" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/colorPrimary"/>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/llSortRecent" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_10sdp" android:layout_marginRight="@dimen/_10sdp">
+                <TextView android:textSize="@dimen/_13ssp" android:textColor="@color/recent_activity_color" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/recent" android:layout_weight="1" android:fontFamily="@font/montserrat_regular"/>
+                <RadioButton android:id="@+id/rbSortRecent" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/colorPrimary"/>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/llSortFail" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_10sdp" android:layout_marginRight="@dimen/_10sdp">
+                <TextView android:textSize="@dimen/_13ssp" android:textColor="@color/recent_activity_color" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fail_attempt_only" android:layout_weight="1" android:fontFamily="@font/montserrat_regular"/>
+                <RadioButton android:id="@+id/rbSortFail" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/colorPrimary"/>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/llSortSuccess" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_10sdp" android:layout_marginRight="@dimen/_10sdp" android:layout_marginBottom="@dimen/_10sdp">
+                <TextView android:textSize="@dimen/_13ssp" android:textColor="@color/recent_activity_color" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/successful_attempt_only" android:layout_weight="1" android:fontFamily="@font/montserrat_regular"/>
+                <RadioButton android:id="@+id/rbSortSuccess" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/colorPrimary"/>
+            </LinearLayout>
+        </LinearLayout>
+    </com.github.florent37.shapeofview.shapes.RoundRectView>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/llRoot" android:padding="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.cardview.widget.CardView android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="match_parent" app:cardBackgroundColor="@color/cardColor" app:cardCornerRadius="10dp" app:cardElevation="0dp">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <ImageView android:id="@+id/ivImage" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_8sdp" android:layout_alignParentBottom="true">
+                <TextView android:textSize="@dimen/_11ssp" android:textColor="@color/white" android:id="@+id/tvTime" android:paddingLeft="@dimen/_5sdp" android:paddingRight="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="@font/montserrat_regular"/>
+                <TextView android:textSize="@dimen/_10ssp" android:textColor="@color/white" android:id="@+id/tvStatus" android:paddingLeft="@dimen/_5sdp" android:paddingRight="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_3sdp" android:singleLine="true" android:fontFamily="@font/montserrat_medium"/>
+            </LinearLayout>
+            <ImageButton android:id="@+id/ivMenu" android:background="?attr/selectableItemBackground" android:padding="5dp" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_baseline_more_vert_24" android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

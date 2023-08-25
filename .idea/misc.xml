@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/drawable/ad_btn.xml" value="0.272" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/activity_premium_remove_ads.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/ad_unified.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/ad_unified_black.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/qureka_app_open_ad.xml" value="0.14635416666666667" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/qureka_interstial_ads2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_exit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_help.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_permission.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_privacy_policy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_view_intruder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_bottomsheet_sort.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_dialog_rate_us.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_activate.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_overlay_permission.xml" value="0.14635416666666667" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_runtime_permission.xml" value="0.14635416666666667" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_select_folder.xml" value="0.14635416666666667" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_usage_app_permission.xml" value="0.14635416666666667" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_layout_applist_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_layout_history_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_layout_recent_activity_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/Code/00_Working/6ToolsApp/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_unlock_attempts_limit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/CodeSales/Apps/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/activity_splash_launch.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/CodeSales/Apps/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/ad_unified_black.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/CodeSales/Apps/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/ads_admob_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/activity_splash_launch.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/activity_thankyou_app.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/ads_admob_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/popup_exit_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_help.xml" value="0.17135416666666667" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_home.xml" value="0.5375347544022243" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_permission.xml" value="0.17135416666666667" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_activity_view_intruder.xml" value="0.17135416666666667" />
+        <entry key="..\:/Husen20/HareshBhai/CodeCanyon/hrnathani/Who Tried to Unlock My Phone/Who Tried to Unlock My Phone/WhoTriedtoUnlockMyPhone/app/src/main/res/layout/wtupcp_fragment_settings.xml" value="0.17135416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
